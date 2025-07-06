@@ -111,9 +111,7 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 
 ---
 
-## ⚖️ License
 
-This project is licensed under the MIT License.
 ### Build
 
 ```shell
@@ -163,3 +161,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+## ⚖️ License
+
+This project is licensed under the MIT License.
+
