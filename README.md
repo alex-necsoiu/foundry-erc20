@@ -1,6 +1,5 @@
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/master/logo.svg" width="120" alt="PandoraToken logo"/>
+<div align="left">
   <h1>PandoraToken ERC20 Project</h1>
   <p><b>Solidity ERC20 token and Foundry development environment</b></p>
   <p>
